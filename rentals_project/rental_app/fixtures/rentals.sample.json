@@ -1,0 +1,16 @@
+[
+    {
+        "model": "rental_app.rental",
+        "pk": 1,
+        "fields": {
+            "name": "Rental 1"
+        }
+    },
+    {
+        "model": "rental_app.rental",
+        "pk": 2,
+        "fields": {
+            "name": "Rental 2"
+        }
+    }
+]
