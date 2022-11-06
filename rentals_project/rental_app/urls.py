@@ -5,6 +5,6 @@ from rental_app import views
 
 
 urlpatterns = [
-    path('', views.ReservationList.as_view(), name='base'),
+    path('', views.ReservationsList.as_view(), name='base'),
 ]
 
